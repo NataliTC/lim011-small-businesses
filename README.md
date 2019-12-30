@@ -8,8 +8,6 @@
 * [3. Objetivos del proyecto](#3-objetivos-del-proyecto)
 * [4. Problemas identificados en la investigación (cliente y usuario)](#4-problemas-identificados-en-la-investigación-cliente-y-usuario)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-** [-Cliente] (#**-cliente)
-** [-Usuario] (#**-usuario)
 * [6. Definición del público objetivo](#6-definición-del-público-objetivo)
 
 * [7. Definición de la solución/producto](#7-definición-de-la-solución-producto)
@@ -19,79 +17,41 @@
 
 ***
 
-## 1. Preámbulo
+## 1. Datos de la Empresa
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
+* Nombre: Fotografía y Filmación MC
+* Rubro: Servicios de fotografía y filmación
+* Fundadora: Marilyn Janira Mendoza
+* Fecha de creación: 21 de noviembre de 2016
 
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+## 2. Historia de Fotografía y Filmación MC
 
-## 2. Resumen del proyecto
+Este emprendimiento nació cuando Marilyn estudiaba la carrera de Ingeniería Ambiental y hacía viajes de estudio para lo cual necesitaba una cámara profesional que le permita registrar material audiovisual para sus informes. Había invertido en una cámara profesional por lo que tuvo la idea de sacarle el máximo provecho en sus tiempos libres haciendo fotos en eventos. Comenzó a brindar sus servicios a través de contactos en su familia, luego por las recomendaciones empezó a tener nuevos clientes que solicitaban su servicio, así decidió formalizar la empresa como “Fotografía y filmación MC”.
+Su trabajo está basado en la innovación y originalidad al capturar momentos únicos e irrepetibles. A través de sus fotos y videos busca plasmar la esencia de cada acontecimiento o evento.
+Actualmente su staff está conformado por 6 personas (entre fotógrafos/as y filmmakers) quienes ponen completa dedicación y responsabilidad en su labor. 
+Las redes sociales (Facebook y Whatsapp) son su medio principal para mostrar su trabajo y establecer contacto con los clientes para realizar sus contratos.
 
-### “Nuevo portal de e-commerce”
+### Fundadora:
+* Marilyn Janira Mendoza
+* 24 años
+* Fotógrafa e ingeniería ambiental
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a:
+### Target de mercado:
+* Sexo: De cada 12 usuarios, 10 son mujeres y 2 son varones.
+* Edades: 25 - 55 años
 
-* [Bluebox](https://instagram.com/bluebox.barsupplies)
-* [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
-* [Pirqa](https://www.pirqa.com/)
-* [Mary's](https://instagram.com/marys_postres)
-* [Amándote Amar](https://web.facebook.com/amandoteamar.store)
-* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
-* [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-* [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-* [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-* [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
+* Facebook [Fotografía y Filmación MC](https://instagram.com/bluebox.barsupplies)
+* Instagram [Fotografía y Filmación MC](https://www.instagram.com/fotografiayfilmacionmc/)
 
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+## 3. 3. Objetivos del proyecto
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+Nuestro principal objetivo es hacer un e-commerce, que responda a las necesidades de nuestros usuarios. Para lo cual debemos:
+* Conocer a los principales usuarios de Fotografía y filmación MC.
+* Investigar cómo llegan a la página, qué buscan, qué información priorizan y qué dificultades tienen.
+Mostrar el trabajo que realizado por la empresa con fotos, videos y testimonios de sus clientes.
+Mejorar el canal de contacto, acortando tiempos de espera y mejorando la comunicación entre los posibles usuarios y la empresa.
+Investigar sobre los medios de pago, de manera que sean una opción a implementarse.
 
-## 3. Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
 
 ### Tópicos a cubrir
 
