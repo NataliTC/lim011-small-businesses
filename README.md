@@ -3,16 +3,16 @@
 
 ## Índice
 
-[1. Datos de la Empresa](#1-datos-de-la-empresa)
-[2. Historia de Fotografía y Filmación MC](#2-historia-de-fotografía-y-filmación-mc)
-[3. Objetivos del proyecto](#3-objetivos-del-proyecto)
-[4. Problemas identificados en la investigación (cliente y usuario)](#4-problemas-identificados-en-la-investigación-cliente-y-usuario)
-[5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-[6. Definición del público objetivo](#6-definición-del-público-objetivo)
-[7. Definición de la solución/producto](#7-definición-de-la-solución-producto)
-[8. Entrega](#8-entrega)
-[9. Otras consideraciones](#9-otras-consideraciones)
-[10. Hacker edition](#10-hacker-edition)
+* [1. Datos de la Empresa](#1-datos-de-la-empresa)
+* [2. Historia de Fotografía y Filmación MC](#2-historia-de-fotografía-y-filmación-mc)
+* [3. Objetivos del proyecto](#3-objetivos-del-proyecto)
+* [4. Problemas identificados en la investigación (cliente y usuario)](#4-problemas-identificados-en-la-investigación-cliente-y-usuario)
+* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+* [6. Definición del público objetivo](#6-definición-del-público-objetivo)
+* [7. Definición de la solución/producto](#7-definición-de-la-solución-producto)
+* [8. Entrega](#8-entrega)
+* [9. Otras consideraciones](#9-otras-consideraciones)
+* [10. Hacker edition](#10-hacker-edition)
 
 ***
 
