@@ -6,13 +6,10 @@
 * [1. Datos de la Empresa](#1-datos-de-la-empresa)
 * [2. Historia de Fotografía y Filmación MC](#2-historia-de-fotografía-y-filmación-mc)
 * [3. Objetivos del proyecto](#3-objetivos-del-proyecto)
-* [4. Problemas identificados en la investigación (cliente y usuario)](#4-problemas-identificados-en-la-investigación-cliente-y-usuario)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Definición del público objetivo](#6-definición-del-público-objetivo)
-* [7. Definición de la solución/producto](#7-definición-de-la-solución-producto)
-* [8. Entrega](#8-entrega)
-* [9. Otras consideraciones](#9-otras-consideraciones)
-* [10. Hacker edition](#10-hacker-edition)
+* [4. Descubrimiento e Implementación](#4-descubrimiento-e-implementación)
+* [5. Síntesis y Definición](#5-síntesis-y-definición)
+* [6. Ideación](#6-ideación)
+* [7. Otras consideraciones](#7-otras-consideraciones)
 
 ***
 
@@ -39,93 +36,53 @@ Las redes sociales (Facebook y Whatsapp) son su medio principal para mostrar su 
 * Sexo: De cada 12 usuarios, 10 son mujeres y 2 son varones.
 * Edades: 25 - 55 años
 
-* Facebook [Fotografía y Filmación MC](https://instagram.com/bluebox.barsupplies)
+* Facebook [Fotografía y Filmación MC](https://www.facebook.com/mcfotografiayfilmacion/)
+* Youtube [Fotografía y Filmación MC](https://www.youtube.com/channel/UCPFEGH6Fpxcq7kCD7e31CTw)
 * Instagram [Fotografía y Filmación MC](https://www.instagram.com/fotografiayfilmacionmc/)
 
-## 3. 3. Objetivos del proyecto
+## 3. Objetivos del proyecto
 
 Nuestro principal objetivo es hacer un e-commerce, que responda a las necesidades de nuestros usuarios. Para lo cual debemos:
 * Conocer a los principales usuarios de Fotografía y filmación MC.
 * Investigar cómo llegan a la página, qué buscan, qué información priorizan y qué dificultades tienen.
-Mostrar el trabajo que realizado por la empresa con fotos, videos y testimonios de sus clientes.
-Mejorar el canal de contacto, acortando tiempos de espera y mejorando la comunicación entre los posibles usuarios y la empresa.
-Investigar sobre los medios de pago, de manera que sean una opción a implementarse.
+* Mostrar el trabajo que realizado por la empresa con fotos, videos y testimonios de sus clientes.
+* Mejorar el canal de contacto, acortando tiempos de espera y mejorando la comunicación entre los posibles usuarios y la empresa.
+* Investigar sobre los medios de pago, de manera que sean una opción a implementarse.
 
 
-### Tópicos a cubrir
+### Implementación
+Para llevar a cabo nuestra investigación, usamos las siguientes herramientas.
+|Actividad|Descripción|Puntos|
+|:----|:---|:---:|
+Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
+|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
+|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
+|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
+|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
+|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+## 4. Descubrimiento e Implementación
 
-## 4. Consideraciones generales
+En esta fase del proceso hemos entrevistado a nuestra cliente Marilyn Mendoza, fundadora de Fotografía y Filmación MC, con la finalidad de conocer un poco más sobre su emprendimiento, a quiénes se dirige, sus objetivos e identificar algunos problemas que será de gran utilidad para nuestra investigación. Asimismo, realizamos entrevistas a usuarios de Fotografía y Filmación MC, de otras empresas del mismo rubro y a posibles usuarios. En total 5 usuarios para nuestra investigación.
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+### * Problemas identificados en la investigación (cliente y usuario)
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-  tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-  relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-  haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-  cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-  curiosidad es clave para entender la problemática. El problema del cliente no
-  siempre es el primero que parece, debes investigar la empresa y la competencia
-  para entender lo que sucede. Para mantener una buena relación con los clientes
-  debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-  resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-  mejores prácticas en la industria del comercio electrónico para poder mostrarle
-  al cliente casos de éxito.
+### Cliente
+* Los cliente no cumplen con el plazo (3 días) de enviar sus datos y fotos de recuerdo al correo para la edición de su video.
+* Facebook baja la resolución de las fotos y videos.
+* A veces al enviar las fotos digitales a sus usuarios para que elijan las que desean en impresión, we transfer no envía el link de descarga.
+* Algunos usuarios desconfían al depositar el 50% de adelanto para separar la fecha.
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-  el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-  haciendo la competencia o industrias similares. De esta manera, puedes traer
-  buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-  le da la confianza de que efectivamente tienes conocimiento de su problemática
-  y que has estudiado todas las posibles soluciones. Para que el benchmark sea
-  efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-  las referencias que resulten obvias, sino otras industrias que puedan funcionar
-  de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-  debes realizar un plan de trabajo, donde se visualicen las herramientas que
-  estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-  que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-  importante que siempre sustentes tu idea, no se trata de trabajar de manera
-  mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-  manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-  garantiza que los problemas se detecten antes, las buenas ideas se introducen
-  más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-  innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-  se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-  técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-  testing es una buena forma de profundizar en las necesidades y preferencias de
-  los usuarios observando sus reacciones mientras usan un producto. Para que el
-  testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-  actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-  al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-  producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-  llévalo a buscar las mejoras y posibles errores, generando una relación de
-  confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+### Usuarios
+* Información más detallada de su trabajo al contactarse directamente.
+* Baja calidad en la edición de foto y/o video al visualizarlo por FB .
+* Enviar fotos y videos por correo y no al what’s app.
+* Sentimiento de angustia por no saber si llegarán a tiempo al evento.
+* Impuntualidad en la entrega de su trabajo.
+* Desconfían al dar el 50% de adelanto en la primera negociación.
+* Los post en el facebook se pierde y no hay orden
+* La fotos que promocionan en sus redes no siempre son reales (originales)
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
@@ -171,21 +128,7 @@ Antes de empezar a realizar estas actividades tendrás que sustentar con tu coac
 cómo es que distribuirás estos puntos en estas actividades.
 El coach te dará el _OK_ para que puedas empezar.
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+
 
 ## 7. Entrega
 
