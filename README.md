@@ -1,4 +1,4 @@
-# Fotografía y Filmación MC - Marketplace - 
+# Fotografía y Filmación MC - Marketplace 
 
 
 ## Índice
@@ -36,9 +36,10 @@ Las redes sociales (Facebook y Whatsapp) son su medio principal para mostrar su 
 * Sexo: De cada 12 usuarios, 10 son mujeres y 2 son varones.
 * Edades: 25 - 55 años
 
-* Facebook [Fotografía y Filmación MC](https://www.facebook.com/mcfotografiayfilmacion/)
-* Youtube [Fotografía y Filmación MC](https://www.youtube.com/channel/UCPFEGH6Fpxcq7kCD7e31CTw)
-* Instagram [Fotografía y Filmación MC](https://www.instagram.com/fotografiayfilmacionmc/)
+### *Fotografía y Filmación MC - Redes Sociales
+* [Facebook] (https://www.facebook.com/mcfotografiayfilmacion/)
+* [Youtube](https://www.youtube.com/channel/UCPFEGH6Fpxcq7kCD7e31CTw)
+* [Instagram](https://www.instagram.com/fotografiayfilmacionmc/)
 
 ## 3. Objetivos del proyecto
 
@@ -52,21 +53,14 @@ Nuestro principal objetivo es hacer un e-commerce, que responda a las necesidade
 
 ### Implementación
 Para llevar a cabo nuestra investigación, usamos las siguientes herramientas.
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+
+imagen
 
 ## 4. Descubrimiento e Implementación
 
 En esta fase del proceso hemos entrevistado a nuestra cliente Marilyn Mendoza, fundadora de Fotografía y Filmación MC, con la finalidad de conocer un poco más sobre su emprendimiento, a quiénes se dirige, sus objetivos e identificar algunos problemas que será de gran utilidad para nuestra investigación. Asimismo, realizamos entrevistas a usuarios de Fotografía y Filmación MC, de otras empresas del mismo rubro y a posibles usuarios. En total 5 usuarios para nuestra investigación.
 
-### * Problemas identificados en la investigación (cliente y usuario)
+### 4.1. Problemas identificados en la investigación (cliente y usuario)
 
 ### Cliente
 * Los cliente no cumplen con el plazo (3 días) de enviar sus datos y fotos de recuerdo al correo para la edición de su video.
@@ -84,32 +78,63 @@ En esta fase del proceso hemos entrevistado a nuestra cliente Marilyn Mendoza, f
 * Los post en el facebook se pierde y no hay orden
 * La fotos que promocionan en sus redes no siempre son reales (originales)
 
-## 5. Criterios de aceptación mínimos del proyecto
+### 4.2. Benchmark
+En el siguiente cuadro se observan a 6 empresas (Fotografía y Filmación MC & 5 Empresas de la competencia entre nacionales e internacionales), que hemos seleccionado para nuestra investigación, de acuerdo a las características y al rubro elegido. La finalidad del benchmark, era conocer cómo empresas del mismo rubro mostraban sus servicios y de qué manera manejaban su ecommerce.
 
-### 1) General
+### Conclusiones
+* Las empresas que cuentan con página web presentan sus precios y paquetes de sus servicios facilitando la información al usuario.
+* Todas las empresas manejan redes sociales, siendo facebook la más utilizada. Sólo la empresa de Fotografía y Filmación MC incluyó una tienda virtual en su red social, en la cual muestra precios de sus productos y servicios.
+* La mayoría de las empresas se comunica vía whatsapp, también incluyeron un formulario en su página web, lo cual es muy importante para tener una base de datos de sus usuarios.
+* Sólo la página web de una empresa de fotografía (Enrique Oliver - España) ha incorporado un intranet, donde sube las fotos del evento que asistió y el usuario tiene la facilidad de descargarlo en un plazo no menor de 15 días, después de ese periodo desaparecerán del intranet para dar paso a fotos de otros usuario; sin embargo, si el usuario desea tenerlo por otro periodo más deberá pagar un adicional.
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. **Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub**.
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
+## 5. Síntesis y Definición
+En esta segunda fase del proceso usamos los datos coleccionados en la fase de investigación y descubrimiento.
 
-### 2) Entendimiento del problema
+### 5.1. Affinity Map
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
+Imgen
+### Conclusiones:
+* De nuestros 5 entrevistados, todos toman en consideración las recomendaciones, ya sea face to face, como también las opiniones en facebook.
+* La atención personalizada es una de la razones por la cual el usuario toma la decisión de contratar el servicio, consideran que la respuesta inmediata y la síntesis de la información son primordiales.
+* La mayoría de nuestros usuarios usar celular y facebook para buscar información del servicio a contratar, no revisan mucho páginas webs ya que consideran que les demandaría mucho tiempo en entender cada detalle.
+* De otro modo, otros usuarios consideran que dentro de una página web la información y galería de fotos se podría apreciar mejor.
+
+### 5.2. Definición del público objetivo
+
+#### User Persona
+imagen
+
+#### Customer Journey Map (indicando pain y gain points)
+imagen
+
+### 5.3. Problem statements & HMW
+* Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
+
+¿Cómo podríamos hacer que Sonia encuentre información que necesita de los paquetes de foto y video de forma más fácil ?
+- En la plataforma web debería detallar la información de los paquetes del servicio y los precios. Asimismo, deberían incluir una opción en PDF para descargar toda la información y conservarla ya sea en su desktop o celular.
+
+
+¿Cómo podríamos hacer que la empresa brinde la opción de personalizar el servicio según necesidades del usuario?
+- A través de un formulario solicitar al usuario información detallada acerca del evento (cantidad de horas, fotógrafo o videógrafo adicional)
+
+* Sonia, necesita una forma de ver los trabajos pasados para percibir la calidad del trabajo a recibir.
+
+¿Cómo podríamos hacer que los trabajos pasados se vean fácilmente y en buena calidad?
+- Organizar la información por secciones para cada tipo de evento
+- Incorporar una galería que permitan ver las imágenes en alta calidad
+- Incorporar un demo reel con un resumen del evento.
+
+* Sonia, necesita una forma rápida de enviar sus datos y fotos para agilizar el proceso de edición de su vídeo
+¿Cómo podríamos hacer que los clientes puedan enviar fácilmente sus datos y fotos para la edición del vídeo?
+- Incluir el envío de datos desde que se ha suscrito el contrato con el pago del adelanto, no aplazarlo hasta culminar el evento
+- Que el usuario pueda subir sus datos al intranet, y que la empresa pueda subir las fotos del evento para que el usuario elija las que desea imprimir.
+
+* Sonia necesita una forma segura de pagar en una pasarela de pago vía Internet para confiar de que no tendrá posteriores problemas
+- ¿Cómo podríamos hacer para que el usuario sienta que hizo correctamente un pago online?
+- Colocar un vídeo tutorial con los pasos a seguir para realizar el pago.
+- Colocar el celular de la empresa para asesorar a los clientes en su proceso de pago a través de whatsapp o llamada
+
 
 ### 3) Planteamiento y validación de la solución
 
