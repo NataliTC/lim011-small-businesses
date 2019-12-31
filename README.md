@@ -159,11 +159,7 @@ Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomí
 
 ## 7. Árbol de contenidos
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el _OK_ para que puedas empezar.
+imagen
 
 
 
