@@ -1,5 +1,5 @@
 # Fotografía y Filmación MC - Marketplace 
-
+IMAGEN
 
 ## Índice
 
@@ -9,7 +9,8 @@
 * [4. Descubrimiento e Implementación](#4-descubrimiento-e-implementación)
 * [5. Síntesis y Definición](#5-síntesis-y-definición)
 * [6. Ideación](#6-ideación)
-* [7. Otras consideraciones](#7-otras-consideraciones)
+* [7. Árbol de contenidos](#7-arbol-de-contenidos)
+* [8. Link - prototipo navegable](#8-link-prototipo-navegable)
 
 ***
 
@@ -36,7 +37,7 @@ Las redes sociales (Facebook y Whatsapp) son su medio principal para mostrar su 
 * Sexo: De cada 12 usuarios, 10 son mujeres y 2 son varones.
 * Edades: 25 - 55 años
 
-### *Fotografía y Filmación MC - Redes Sociales
+### Fotografía y Filmación MC - Redes Sociales
 * [Facebook] (https://www.facebook.com/mcfotografiayfilmacion/)
 * [Youtube](https://www.youtube.com/channel/UCPFEGH6Fpxcq7kCD7e31CTw)
 * [Instagram](https://www.instagram.com/fotografiayfilmacionmc/)
@@ -109,43 +110,55 @@ imagen
 imagen
 
 ### 5.3. Problem statements & HMW
-* Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
+## Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
 
-¿Cómo podríamos hacer que Sonia encuentre información que necesita de los paquetes de foto y video de forma más fácil ?
+### ¿Cómo podríamos hacer que Sonia encuentre información que necesita de los paquetes de foto y video de forma más fácil ?
 - En la plataforma web debería detallar la información de los paquetes del servicio y los precios. Asimismo, deberían incluir una opción en PDF para descargar toda la información y conservarla ya sea en su desktop o celular.
 
-
-¿Cómo podríamos hacer que la empresa brinde la opción de personalizar el servicio según necesidades del usuario?
+### ¿Cómo podríamos hacer que la empresa brinde la opción de personalizar el servicio según necesidades del usuario?
 - A través de un formulario solicitar al usuario información detallada acerca del evento (cantidad de horas, fotógrafo o videógrafo adicional)
 
-* Sonia, necesita una forma de ver los trabajos pasados para percibir la calidad del trabajo a recibir.
+## Sonia, necesita una forma de ver los trabajos pasados para percibir la calidad del trabajo a recibir.
 
-¿Cómo podríamos hacer que los trabajos pasados se vean fácilmente y en buena calidad?
+### ¿Cómo podríamos hacer que los trabajos pasados se vean fácilmente y en buena calidad?
 - Organizar la información por secciones para cada tipo de evento
 - Incorporar una galería que permitan ver las imágenes en alta calidad
 - Incorporar un demo reel con un resumen del evento.
 
-* Sonia, necesita una forma rápida de enviar sus datos y fotos para agilizar el proceso de edición de su vídeo
-¿Cómo podríamos hacer que los clientes puedan enviar fácilmente sus datos y fotos para la edición del vídeo?
+## Sonia, necesita una forma rápida de enviar sus datos y fotos para agilizar el proceso de edición de su vídeo
+### ¿Cómo podríamos hacer que los clientes puedan enviar fácilmente sus datos y fotos para la edición del vídeo?
 - Incluir el envío de datos desde que se ha suscrito el contrato con el pago del adelanto, no aplazarlo hasta culminar el evento
 - Que el usuario pueda subir sus datos al intranet, y que la empresa pueda subir las fotos del evento para que el usuario elija las que desea imprimir.
 
-* Sonia necesita una forma segura de pagar en una pasarela de pago vía Internet para confiar de que no tendrá posteriores problemas
-- ¿Cómo podríamos hacer para que el usuario sienta que hizo correctamente un pago online?
+## Sonia necesita una forma segura de pagar en una pasarela de pago vía Internet para confiar de que no tendrá posteriores problemas
+### ¿Cómo podríamos hacer para que el usuario sienta que hizo correctamente un pago online?
 - Colocar un vídeo tutorial con los pasos a seguir para realizar el pago.
 - Colocar el celular de la empresa para asesorar a los clientes en su proceso de pago a través de whatsapp o llamada
 
 
-### 3) Planteamiento y validación de la solución
+## 6. Ideación
 
-Luego de haber definido cómo será la solución, es decir, qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+### 6.1 Benchmark - Referencias
+A continuación evaluamos las páginas webs de las empresas que hemos realizado el benchmark, con la finalidad de poder construir los Sketches.
 
-## 6. Consideraciones técnicas
+* Alejandro Zárate - Fotografía
+Al momento que uno abre la web se encuentra con una galería de fotos de BODAS y PREBODAS, si damos click en ambas opciones, nos llevará a una galería de fotos más completa.
+Por otro lado, en la opción PAQUETES & PRECIOS, se visualiza en la web los precios y detalles del servicio fotográfico, asimismo ha incluído un PDF para que el usuario pueda conservar la información en un brochure.
+
+* Tahuano
+Maneja una single page application, incluye en su página la descripción del ¿por qué elegirlos?, también un collage de fotos y adjuntan las recomendaciones de sus usuarios. Del mismo modo, muestra un detalle completo de sus paquetes de boda (foto y video), e incluye un cuadro comparativo entre un paquete y otro. Si el usuario desea comunicarse directamente con la empresa mediante whatsapp, hay un link que le lleva directamente al aplicativo.
+
+* Dafovid
+Brinda un servicio integral de foto y video, en su página web presenta sus SERVICIOS OFRECIDOS, los cuales se dividen por secciones, mostrando los detalles por cada paquete; sin embargo, si el usuario desea saber el precio deberá llenar un formulario detallando su nombre, tipo de evento,fecha, hora de inicio, dirección, teléfono, etc. También incluyeron un chat para comunicarse por Facebook y Whatsapp.
+
+* Enrique Oliver - Fotógrafo.
+Es un fotógrafo español, ganador y nominado a varios premios de fotografía los cuales se muestran en su página web. Dos menús particulares de su página son: ÁREA DE CLIENTES y RECOMENDACIONES, en el primero el cliente para poder visualizar sus fotos deberá ingresar con su usuario y clave, que son asignados por el fotógrafo, las fotos están en red por un periodo no mayor a 15 días. Por otro lado, en el menú RECOMENDACIONES, sus clientes escriben la experiencia que tuvieron al contratar el servicio, si desean visualizar todas las recomendaciones, tendrán que dar click en la opción bodas.net, en el cual les redirecciona a una página donde encontrarán desde proveedores de foto y video, servicio de catering hasta ideas para bodas.
+
+* Guillermo Flores - Fotógrafo.
+Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomía, modelos y turismo. En su página web visualizamos los detalles de su servicio y los precios, asimismo, nos muestra una galería de fotos por cada servicio, y tutoriales y talleres de cómo tomar fotos. 
+
+
+## 7. Árbol de contenidos
 
 Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
 puntos los podrás utilizar realizando las actividades del siguiente cuadro.
@@ -155,75 +168,11 @@ El coach te dará el _OK_ para que puedas empezar.
 
 
 
-## 7. Entrega
+## 8. Link - prototipo navegable
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-  - User persona
-  - Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto.
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
   necesidades del usuario final.
 * Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
   diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## 8. Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-## 9. Hacker edition
-
-* En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación.
