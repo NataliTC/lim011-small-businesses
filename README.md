@@ -1,5 +1,5 @@
 # Fotografía y Filmación MC - Marketplace 
-IMAGEN
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/master/cliente.jpg)
 
 ## Índice
 
@@ -54,8 +54,7 @@ Nuestro principal objetivo es hacer un e-commerce, que responda a las necesidade
 
 ### Implementación
 Para llevar a cabo nuestra investigación, usamos las siguientes herramientas.
-
-imagen
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/implementacion.jpg)
 
 ## 4. Descubrimiento e Implementación
 
@@ -81,6 +80,7 @@ En esta fase del proceso hemos entrevistado a nuestra cliente Marilyn Mendoza, f
 
 ### 4.2. Benchmark
 En el siguiente cuadro se observan a 6 empresas (Fotografía y Filmación MC & 5 Empresas de la competencia entre nacionales e internacionales), que hemos seleccionado para nuestra investigación, de acuerdo a las características y al rubro elegido. La finalidad del benchmark, era conocer cómo empresas del mismo rubro mostraban sus servicios y de qué manera manejaban su ecommerce.
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/TABLA%20BENCHMARK.jpg)
 
 ### Conclusiones
 * Las empresas que cuentan con página web presentan sus precios y paquetes de sus servicios facilitando la información al usuario.
@@ -93,8 +93,8 @@ En el siguiente cuadro se observan a 6 empresas (Fotografía y Filmación MC & 5
 En esta segunda fase del proceso usamos los datos coleccionados en la fase de investigación y descubrimiento.
 
 ### 5.1. Affinity Map
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/affinity%20map.jpg)
 
-Imgen
 ### Conclusiones:
 * De nuestros 5 entrevistados, todos toman en consideración las recomendaciones, ya sea face to face, como también las opiniones en facebook.
 * La atención personalizada es una de la razones por la cual el usuario toma la decisión de contratar el servicio, consideran que la respuesta inmediata y la síntesis de la información son primordiales.
@@ -104,10 +104,10 @@ Imgen
 ### 5.2. Definición del público objetivo
 
 #### User Persona
-imagen
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/user%20persona.jpg)
 
 #### Customer Journey Map (indicando pain y gain points)
-imagen
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/customer%20map.jpg)
 
 ### 5.3. Problem statements & HMW
 #### Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
@@ -159,9 +159,7 @@ Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomí
 
 ## 7. Árbol de contenidos
 
-imagen
-
-
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/arbol%20de%20contenidos.jpg)
 
 ## 8. Link - prototipo navegable
 
