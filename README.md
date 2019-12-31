@@ -38,7 +38,7 @@ Las redes sociales (Facebook y Whatsapp) son su medio principal para mostrar su 
 * Edades: 25 - 55 años
 
 ### Fotografía y Filmación MC - Redes Sociales
-* [Facebook] (https://www.facebook.com/mcfotografiayfilmacion/)
+* [Facebook](https://www.facebook.com/mcfotografiayfilmacion/)
 * [Youtube](https://www.youtube.com/channel/UCPFEGH6Fpxcq7kCD7e31CTw)
 * [Instagram](https://www.instagram.com/fotografiayfilmacionmc/)
 
@@ -110,51 +110,50 @@ imagen
 imagen
 
 ### 5.3. Problem statements & HMW
-## Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
+#### Sonia, necesita conocer la información de los paquetes del servicio de foto y video para saber si se adapta a sus necesidades.
 
-### ¿Cómo podríamos hacer que Sonia encuentre información que necesita de los paquetes de foto y video de forma más fácil ?
+#### ¿Cómo podríamos hacer que Sonia encuentre información que necesita de los paquetes de foto y video de forma más fácil ?
 - En la plataforma web debería detallar la información de los paquetes del servicio y los precios. Asimismo, deberían incluir una opción en PDF para descargar toda la información y conservarla ya sea en su desktop o celular.
 
-### ¿Cómo podríamos hacer que la empresa brinde la opción de personalizar el servicio según necesidades del usuario?
+#### ¿Cómo podríamos hacer que la empresa brinde la opción de personalizar el servicio según necesidades del usuario?
 - A través de un formulario solicitar al usuario información detallada acerca del evento (cantidad de horas, fotógrafo o videógrafo adicional)
 
-## Sonia, necesita una forma de ver los trabajos pasados para percibir la calidad del trabajo a recibir.
+#### Sonia, necesita una forma de ver los trabajos pasados para percibir la calidad del trabajo a recibir.
 
-### ¿Cómo podríamos hacer que los trabajos pasados se vean fácilmente y en buena calidad?
+#### ¿Cómo podríamos hacer que los trabajos pasados se vean fácilmente y en buena calidad?
 - Organizar la información por secciones para cada tipo de evento
 - Incorporar una galería que permitan ver las imágenes en alta calidad
 - Incorporar un demo reel con un resumen del evento.
 
-## Sonia, necesita una forma rápida de enviar sus datos y fotos para agilizar el proceso de edición de su vídeo
-### ¿Cómo podríamos hacer que los clientes puedan enviar fácilmente sus datos y fotos para la edición del vídeo?
+#### Sonia, necesita una forma rápida de enviar sus datos y fotos para agilizar el proceso de edición de su vídeo
+#### ¿Cómo podríamos hacer que los clientes puedan enviar fácilmente sus datos y fotos para la edición del vídeo?
 - Incluir el envío de datos desde que se ha suscrito el contrato con el pago del adelanto, no aplazarlo hasta culminar el evento
 - Que el usuario pueda subir sus datos al intranet, y que la empresa pueda subir las fotos del evento para que el usuario elija las que desea imprimir.
 
-## Sonia necesita una forma segura de pagar en una pasarela de pago vía Internet para confiar de que no tendrá posteriores problemas
-### ¿Cómo podríamos hacer para que el usuario sienta que hizo correctamente un pago online?
+#### Sonia necesita una forma segura de pagar en una pasarela de pago vía Internet para confiar de que no tendrá posteriores problemas
+#### ¿Cómo podríamos hacer para que el usuario sienta que hizo correctamente un pago online?
 - Colocar un vídeo tutorial con los pasos a seguir para realizar el pago.
 - Colocar el celular de la empresa para asesorar a los clientes en su proceso de pago a través de whatsapp o llamada
-
 
 ## 6. Ideación
 
 ### 6.1 Benchmark - Referencias
 A continuación evaluamos las páginas webs de las empresas que hemos realizado el benchmark, con la finalidad de poder construir los Sketches.
 
-* Alejandro Zárate - Fotografía
+#### * Alejandro Zárate - Fotografía
 Al momento que uno abre la web se encuentra con una galería de fotos de BODAS y PREBODAS, si damos click en ambas opciones, nos llevará a una galería de fotos más completa.
 Por otro lado, en la opción PAQUETES & PRECIOS, se visualiza en la web los precios y detalles del servicio fotográfico, asimismo ha incluído un PDF para que el usuario pueda conservar la información en un brochure.
 
-* Tahuano
+#### * Tahuano
 Maneja una single page application, incluye en su página la descripción del ¿por qué elegirlos?, también un collage de fotos y adjuntan las recomendaciones de sus usuarios. Del mismo modo, muestra un detalle completo de sus paquetes de boda (foto y video), e incluye un cuadro comparativo entre un paquete y otro. Si el usuario desea comunicarse directamente con la empresa mediante whatsapp, hay un link que le lleva directamente al aplicativo.
 
-* Dafovid
+#### * Dafovid
 Brinda un servicio integral de foto y video, en su página web presenta sus SERVICIOS OFRECIDOS, los cuales se dividen por secciones, mostrando los detalles por cada paquete; sin embargo, si el usuario desea saber el precio deberá llenar un formulario detallando su nombre, tipo de evento,fecha, hora de inicio, dirección, teléfono, etc. También incluyeron un chat para comunicarse por Facebook y Whatsapp.
 
-* Enrique Oliver - Fotógrafo.
+#### * Enrique Oliver - Fotógrafo.
 Es un fotógrafo español, ganador y nominado a varios premios de fotografía los cuales se muestran en su página web. Dos menús particulares de su página son: ÁREA DE CLIENTES y RECOMENDACIONES, en el primero el cliente para poder visualizar sus fotos deberá ingresar con su usuario y clave, que son asignados por el fotógrafo, las fotos están en red por un periodo no mayor a 15 días. Por otro lado, en el menú RECOMENDACIONES, sus clientes escriben la experiencia que tuvieron al contratar el servicio, si desean visualizar todas las recomendaciones, tendrán que dar click en la opción bodas.net, en el cual les redirecciona a una página donde encontrarán desde proveedores de foto y video, servicio de catering hasta ideas para bodas.
 
-* Guillermo Flores - Fotógrafo.
+#### * Guillermo Flores - Fotógrafo.
 Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomía, modelos y turismo. En su página web visualizamos los detalles de su servicio y los precios, asimismo, nos muestra una galería de fotos por cada servicio, y tutoriales y talleres de cómo tomar fotos. 
 
 
