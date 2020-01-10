@@ -163,7 +163,7 @@ Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomí
 
 ### FLUJOGRAMA: Compra del Servicio Foto/Video
 
-![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/arbol%20de%20contenidos.jpg)
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/master/flujograma.jpg)
 
 
 ## 8. Link - prototipo navegable
@@ -172,6 +172,11 @@ https://www.figma.com/proto/bPErxWX75JYX1BeNJprbeS/Untitled?node-id=35%3A1&scali
 De acuerdo a nuestra investigación, hemos llegado a la conclusión que teniendo nuestra cliente una página web podrá mostrar su trabajo en alta resolución y por secciones de acuerdo al evento con el que trabaja. De esa forma, sus usuarios podrán visualizar la galería y los paquetes & precios de acuerdo a sus necesidades.
 
 Por otro lado, los usuarios planteaban que la información de los paquetes & precios puedan estar plasmados en la web, ya que facilitaría mejor la toma de decisión. Asimismo, se ha incluído un formulario para que el usuario pueda llenarlo y hacer la consulta sobre el servicio que desea.
+
+Con la finalidad de analizar el alcance que tendría la página web de mi cliente, he usado la web de WIX para crear su página y que ella lo postee en su fan page, de esa forma evaluaré si los usuarios hasta que punto llegó o si finalizó el flujo llenando el formulario.
+![image](https://github.com/NataliTC/lim011-small-businesses/blob/master/AN%C3%81LISIS.jpg)
+
+
 
 ### Documentación:
 * [Drive]https://drive.google.com/drive/folders/1P6geNRksmMysWfi3kWGo4t2PCWUMSZfK
