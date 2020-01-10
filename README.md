@@ -162,9 +162,10 @@ Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomí
 ![image](https://github.com/NataliTC/lim011-small-businesses/blob/marketplace-mc/arbol%20de%20contenidos.jpg)
 
 ## 8. Link - prototipo navegable
-
 https://www.figma.com/proto/bPErxWX75JYX1BeNJprbeS/Untitled?node-id=35%3A1&scaling=min-zoom
 
 De acuerdo a nuestra investigación, hemos llegado a la conclusión que teniendo nuestra cliente una página web podrá mostrar su trabajo en alta resolución y por secciones de acuerdo al evento con el que trabaja. De esa forma, sus usuarios podrán visualizar la galería y los paquetes & precios de acuerdo a sus necesidades.
 
-Por otro lado, los usuarios planteaban que la información de los paquetes & precios puedan estar plasmados en la web, ya que facilitaría mejor la toma de decisión. Asimismo, se ha incluído un formulario para que el usuario pueda llenarlo y hacer la consulta sobre el servicio que desea,
+Por otro lado, los usuarios planteaban que la información de los paquetes & precios puedan estar plasmados en la web, ya que facilitaría mejor la toma de decisión. Asimismo, se ha incluído un formulario para que el usuario pueda llenarlo y hacer la consulta sobre el servicio que desea, 
+
+
