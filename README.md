@@ -163,9 +163,8 @@ Fotógrafo mexicano, dedicado netamente a la fotografía para bodas, gastronomí
 
 ## 8. Link - prototipo navegable
 
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto.
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+https://www.figma.com/proto/bPErxWX75JYX1BeNJprbeS/Untitled?node-id=35%3A1&scaling=min-zoom
+
+De acuerdo a nuestra investigación, hemos llegado a la conclusión que teniendo nuestra cliente una página web podrá mostrar su trabajo en alta resolución y por secciones de acuerdo al evento con el que trabaja. De esa forma, sus usuarios podrán visualizar la galería y los paquetes & precios de acuerdo a sus necesidades.
+
+Por otro lado, los usuarios planteaban que la información de los paquetes & precios puedan estar plasmados en la web, ya que facilitaría mejor la toma de decisión. Asimismo, se ha incluído un formulario para que el usuario pueda llenarlo y hacer la consulta sobre el servicio que desea,
